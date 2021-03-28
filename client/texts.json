@@ -1,0 +1,34 @@
+{
+    "choose_image": {
+        "en": "Pick Image",
+        "tr": "Fotoğraf Seç"
+    },
+    "take_photo":{
+        "en": "Take Photo",
+        "tr": "Fotoğraf Çek"
+    },
+    "submit":{
+        "en": "Submit",
+        "tr": "Gönder"
+    },
+    "selection_canceled":{
+        "en": "Selection was cancelled by user!",
+        "tr": "Seçim, kullanıcı tarafından iptal edildi!"
+    },
+    "process_error":{
+        "en": "Error processing image!",
+        "tr": "Resim işlenirken hata oluştu!"
+    },
+    "object_count_text":{
+        "en": " objects found.",
+        "tr": " nesne tespit edildi."
+    },
+    "selection_error":{
+        "en": "Error selecting image!",
+        "tr": "Resim seçiminde hata!"
+    },
+    "server_error":{
+        "en": "Cannot connect to server!",
+        "tr": "Sunucuya bağlanılamadı!"
+    }
+}
